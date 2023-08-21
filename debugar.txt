@@ -1,0 +1,5 @@
+f5 - primeira opção
+f10 - vai debugar linha a linha
+f11 - vai debugar dentro de uma função
+f9 - marca uma linha a ser analisada (depois apertar f5 pro debug). Aperte f9 novamente para desmarcar a linha
+debug console - menu dentro do terminal que mostra o código rodando em tempo real.
