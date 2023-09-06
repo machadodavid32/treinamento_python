@@ -28,6 +28,22 @@ with open('computador.json', encoding='utf-8') as arquivo_json:
 
     
         
+# Abaixo,desafio json
 
+desafio_json = """
+{
+    "name": "John Smith",
+    "Age": 30,
+    "city": "New York",
+    "isStudent": true,
+    "gpa": 3.5
+}
 
+"""
+
+d_json = json.loads(desafio_json) # transforma strings para dicionário
+
+with open('d.json', 'w', encoding='utf-8') as arquvivo_djson:
+    json.dump(d_json, arquvivo_djson) # Criando arquivo
+    
 
