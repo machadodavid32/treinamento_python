@@ -20,6 +20,6 @@ print('Este livro foi criado em ' + str(ano_publicacao))
 
 # Conversões entre coleções
 saudacao = 'Hello!'
-print(list(saudacao))
-print(set(saudacao))
-print(tuple(saudacao))
+print(list(saudacao)) # ['H', 'e', 'l', 'l', 'o', '!']
+print(set(saudacao)) # {'o', 'e', '!', 'H', 'l'}
+print(tuple(saudacao)) # ('H', 'e', 'l', 'l', 'o', '!')
