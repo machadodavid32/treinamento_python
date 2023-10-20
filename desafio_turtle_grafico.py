@@ -7,9 +7,11 @@ a cada resposta, repetir a pergunta.
 
 t = Turtle()
 
+velocidade = int(input('Informe a velocidade: '))
+t.speed(velocidade)
+
 while True:
-    velocidade = int(input('Informe a velocidade: '))
-    t.speed(velocidade)
+    
     
     distancia = 0
     direita = 0
