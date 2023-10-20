@@ -1,0 +1,15 @@
+Métodologia boa fazer um software. São 3 colunas
+
+Ao criar um software, você tem a ideia, depois vc detalha os passos e os quebra em pequenas partes. Após isso, você separa
+as pequenas partes em:
+
+a fazer - O que vou fazer
+fazendo - em progresso
+feito - finalizado
+
+Podes também utilizar o ciclo pdca
+
+ação(agir), planejar, fazer, checar
+
+após a fazer de checar, localizar problemas ou pontos a melhorar e repetir o ciclo.
+
