@@ -21,3 +21,7 @@ CTRL+W: Fechar janela
 CTRL+(1,2,3,4): Navegar entrar janelas abertas no VS Code
 
 F12: Navegar até o código fonte
+
+Clicar na palavra e apertar F2 - vai selecionar e vc pode renomear todas as palavras iguais.
+Neste caso, ao renomear, vc pode apertar SHIFT+ENTER para analisar todas as ocorrências que 
+a palavra a ser renomeada está incluída e verificar se realmente pode renomear
